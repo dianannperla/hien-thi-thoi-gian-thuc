@@ -6,7 +6,7 @@
     "axios": "^0.27.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3"  // Ensure the latest stable version for consistent build
+    "react-scripts": "^4.0.3"  // Use latest stable version to ensure a consistent build process
   },
   "scripts": {
     "start": "react-scripts start",
